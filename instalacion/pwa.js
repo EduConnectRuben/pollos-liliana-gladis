@@ -7,7 +7,7 @@ Object.assign(installButton.style, {
   bottom: '20px',
   right: '20px',
   padding: '10px 20px',
-  backgroundColor: '#3367D6',
+  backgroundColor: '#db8b13',
   color: 'white',
   border: 'none',
   borderRadius: '5px',
